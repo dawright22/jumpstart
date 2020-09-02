@@ -1,6 +1,9 @@
 # jumpstart
 clone this repo
+
 cd into the quickstart dir
+
+
 put your TF code into the quicksart dir
 
 add:
