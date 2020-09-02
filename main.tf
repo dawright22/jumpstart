@@ -44,7 +44,7 @@ resource  "null_resource" "remote_init" {
   }
 }
 
-output "User instructions" {
+output "user_nstructions" {
   value = <<README
 
 # Run these commands in order:
